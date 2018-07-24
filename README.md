@@ -1,4 +1,8 @@
-# 2. Data Structure Implementation (Mysterious Safeguards)
+# Data Structure Implementation (Mysterious Safeguards)
+
+Please note that the input file path is under input/. Please make changes to the path in case of NoSuchFileException.
+
+# - Requirements
 
 To ensure safety, the pool owner hires N lifeguards, each of which has a shift that
 covers some contiguous interval of time during the day. The pool is open from time t=0
