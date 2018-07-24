@@ -1,5 +1,6 @@
 # Data Structure Implementation (Mysterious Safeguards)
 
+Source code is under src/, output files are under main branch.
 Please note that the input file path is under input/. Please make changes to the path in case of NoSuchFileException.
 
 # - Requirements
